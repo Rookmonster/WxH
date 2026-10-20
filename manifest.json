@@ -1,13 +1,13 @@
 {
   "name": "Width & Height",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "manifest_version": 1,
-  "description": "Roll dice pools, find matching sets, and share the width and height of your chosen action.",
-  "icon": "./icon.svg",
+  "description": "Roll dice pools, find matching sets, and share your chosen action.",
+  "icon": "/WxH/icon.svg",
   "action": {
     "title": "Width & Height",
-    "icon": "./icon.svg",
-    "popover": "./",
+    "icon": "/WxH/icon.svg",
+    "popover": "/WxH/index.html",
     "width": 440,
     "height": 740
   }
