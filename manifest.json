@@ -1,14 +1,14 @@
 {
-  "name": "Width & Height",
-  "version": "0.5.0",
+  "name": "Woodlands · Width & Height",
+  "version": "0.6.3",
   "manifest_version": 1,
-  "description": "Roll dice pools, find matching sets, and share the width and height of your chosen action.",
-  "icon": "/WxH/icon.svg",
+  "description": "Woodlands character sheets, matching sets, declarations, Width bands, public turn records and combat resources.",
+  "icon": "/WxH/icon.svg?v=0.6.3",
   "action": {
-    "title": "Width & Height",
-    "icon": "/WxH/icon.svg",
-    "popover": "/WxH/index.html?v=0.5.0",
-    "width": 440,
+    "title": "Woodlands",
+    "icon": "/WxH/icon.svg?v=0.6.3",
+    "popover": "/WxH/index.html?v=0.6.3",
+    "width": 520,
     "height": 740
   }
 }
